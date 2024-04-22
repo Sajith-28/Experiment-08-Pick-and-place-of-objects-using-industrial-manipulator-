@@ -102,14 +102,26 @@ and click on the connect icon
 
 
 
+![WhatsApp Image 2024-04-22 at 11 12 11_531da241](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149937471/b89be21b-1c10-4a2d-a5e0-476e6ac2d558)
 
 
+![WhatsApp Image 2024-04-22 at 11 12 12_ac1d982b](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149937471/3097a8ed-6007-4c1a-832c-90db6c8f7554)
 
+![WhatsApp Image 2024-04-22 at 11 12 13_950e4d18](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149937471/51bb3b5b-e69f-4838-8f4a-07d834c42e1a)
+
+![WhatsApp Image 2024-04-22 at 11 12 13_d7fbffc3](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149937471/5f0061cd-6c19-463e-bdab-4c06804e6861)
+
+![WhatsApp Image 2024-04-22 at 11 12 14_30377c5d](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149937471/996fc08c-e6b7-416a-b066-5d4244a985b4)
+
+![WhatsApp Image 2024-04-22 at 11 12 15_210adae5](https://github.com/vasanthkumarch/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149937471/b52c2096-61c8-4ef0-b035-2f5b43c52af1)
+
+
+## VIDEO :
+https://youtube.com/shorts/nH6WtXTrq0A?feature=share
 
 ### Results: 
 
-
-
+THE PICK AND PLACE OPERATION IS DEVELOPED AND EXECUTED SUCCESFULLY
 
 
 
