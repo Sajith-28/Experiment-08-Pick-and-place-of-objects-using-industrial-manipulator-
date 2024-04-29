@@ -75,8 +75,14 @@ Installation position: floor, ceiling, walls.
 and click on the connect icon 
 3. click on the 
 ### output video and screen shots of pick and place 
+![324419006-917e5519-22b3-44c1-80b4-a7cd9d3e592f](https://github.com/Sajith-28/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149937471/6b79f9bf-503c-4b42-ae9d-76ded6c62c58)
+![324419060-283b6033-31e7-47bf-a9c9-d7319b36540b](https://github.com/Sajith-28/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149937471/7f33e559-44c1-4e6a-b8a1-993d8b21e972)
+![324419127-ccbb8b2f-a18a-4224-aabe-00635bd50a4a](https://github.com/Sajith-28/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149937471/cc29aba4-80f9-4fe8-acb4-f099d86bae81)
+![324419199-7f7f76e2-e782-4521-bd26-9676a65fd844](https://github.com/Sajith-28/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149937471/99c96e9e-fae8-4b5b-a5fc-9f8a221c1b28)
+![324420967-091a270d-1937-4c62-9d57-b67cd385fb9f (1)](https://github.com/Sajith-28/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/149937471/99550fd8-97ef-4bf4-9632-1e7237ed364c)
+https://youtu.be/DBbJK0NA2ho
 ### Results: 
-
+Thus to pick and place a regular shape using two finger gripper on the conveyor belt
 
 
 
